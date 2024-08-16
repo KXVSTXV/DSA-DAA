@@ -12,4 +12,4 @@ Data Structure & Algorithms (DSA)
 Design & Analysis of Algorithms (DAA)
 
 1. 
-ALL PROGRAMS ARE WRITTEN IN C
+PROGRAMS ARE WRITTEN EITHER IN C OR IN JAVA
